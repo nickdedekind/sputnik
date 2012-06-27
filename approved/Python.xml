@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<profile> <name>Python</name> <description>Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.</description> <url>http://www.python.org/</url> </profile>
+<profile> <name>Python</name> <description>Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.</description> <url>http://www.python.org/</url>  <packages><package name="1" /><package name="2" /></packages> </profile>
