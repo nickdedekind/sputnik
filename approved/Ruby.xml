@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<profile> <name>Ruby on Rails</name> <description>Ruby on Rails is an open-source web framework that's optimized for programmer happiness and sustainable productivity. It lets you write beautiful code by favoring convention and configuration.</description> <url>http://rubyonrails.org/</url> <packages><package name="1" /><package name="2" /></packages> </profile>
