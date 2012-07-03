@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+  <name>Node.js</name>
+  <description>
+Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+  </description> 
+  <url>http://nodejs.org/</url> 
+  <packages>
+    <package name="vim" />
+    <package name="emacs23" />
+    <package name="emacs23-el" />
+    <package name="tmux" />
+    <package name="javascript-common" />
+    <package name="nodejs" />
+  </packages>
+</profile>
